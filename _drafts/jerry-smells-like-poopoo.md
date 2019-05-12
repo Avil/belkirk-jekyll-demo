@@ -8,3 +8,4 @@ banner_image: ''
 related_posts: []
 
 ---
+Jk I meant to type Richard
